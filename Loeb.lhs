@@ -155,7 +155,7 @@ nonsensical:
 "Yes! It is a tricky spell indeed!"
 
 The child hadn't heard, but the wizard had returned already, brew apparently
-finished. The wizard smiled and down his hat, approaching the child.
+finished. The wizard smiled and set down his hat, approaching the child.
 
 "May I?" the wizard asked, hand outstretched.
 
